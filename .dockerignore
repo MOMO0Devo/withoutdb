@@ -1,0 +1,34 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+.next
+out
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker-related files
+.dockerignore
+Dockerfile
+
+# Test files
+tests/
+*.test.js
+
+# Logs and temporary files
+*.log
