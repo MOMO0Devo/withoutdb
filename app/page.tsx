@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>heloo this is version two of moshhhhhhhhhhhthe Tag</div>
+    <div>heloo thuuuuuuuuuuuuuuuuuuuo of moshhhhhhhhhhhthe Tag</div>
   )
 }
 
