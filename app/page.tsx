@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>kamaljan2333333333of moshhhhhhhhhhhthe Tag1</div>
+    <div>kamaljan2333333333of moshhiiiiihhhhhhhhhthe Tag1</div>
   )
 }
 
